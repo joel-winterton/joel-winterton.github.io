@@ -11,7 +11,7 @@ Currently, I'm interested in modelling seasonal influenza vaccination strategies
 
 ## News
 
-- **[Jul. 2026]** I've given a talk titled "Multi-season vaccination feedback loops" at ECMTB2026 in Graz, Austria.  
+- **[Jul. 2026]** I've given a talk titled ["Multi-season vaccination feedback loops"](https://ecmtb2026.org/contributions/ms67-05) as part of the mini-symposia "Epidemiological-behavioural modelling to address health challenges" at ECMTB2026 in Graz, Austria.  
 - **[Jan. 2025]** I'm starting a 3 month placement in the Infectious Disease Modelling team at the UK Health Security Agency (UKHSA). 
 - **[Oct. 2023]** I've started the PhD!
 
