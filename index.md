@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year Ph.D. student in the Disease Dynamics group in DAMTP, Cambrige being supervised by Prof. Julia Gog. 
+I am a 2nd year Ph.D. student in the Disease Dynamics group in DAMTP, Cambridge being supervised by [Prof. Julia Gog](https://www.damtp.cam.ac.uk/person/jrg20). 
 
 ## Research Interests
 Currently, I'm interested in modelling seasonal influenza vaccination strategies.
